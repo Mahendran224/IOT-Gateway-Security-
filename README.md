@@ -62,4 +62,4 @@ Install the required dependencies and configure the MQTT broker before running t
 
 ---
 
-*Built with curiosity, experimentation, and a passion for IoT security.*
+*Meendum Sandhippom.*
