@@ -1,4 +1,4 @@
-# IOT-Gateway-Security-
+# IOT Gateway Security for magnetic levitation system
 
 ##  Project Demonstration
 
